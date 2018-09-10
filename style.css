@@ -1,0 +1,84 @@
+li {
+    color:#F2F7F7;
+    font-size: 24px;
+    font-family: sans-serif;
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+.a {
+float: right;
+}
+.b {
+    float: left;
+}
+ul {
+    background-color:#2B2B2C;
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+  footer {
+    background-color: #2B2B2C;
+    }
+  #footText {
+    color:#F2F7F7;
+  }
+  h1 {
+    margin: 0;
+    padding: 120px 10px;
+    height: 60px;
+    text-align: center;
+    color: yellow;
+    font-size: 72px;
+    font-family: sans-serif;
+  }
+  #container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-flow: wrap;
+  }
+  .box{
+      width: 300px;
+      height: 300px;
+      background-color: turquoise;
+      margin: 50px;
+      box-sizing: border-box;
+      border-radius: 10px;
+  }
+#orange{
+    width: 100%;
+}
+.left{
+    background-color: orange;
+    width: 30%;
+    height: 200px;
+    float: left;
+    margin: 100px;
+  }
+.right{
+    background-color: orange;
+    width: 30%;
+    height: 200px;
+    float: right;
+    margin: 100px;
+}
+#box{
+    width: 100%
+}
+.para{
+    float: left;
+    font-size: 24px;
+    font-family: sans-serif;
+    padding: 10px 60px;
+    width: 30%;
+}
+.farm-pic {
+    float: right;
+    width: 300px;
+    height: 200px;
+}
